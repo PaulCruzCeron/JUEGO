@@ -106,12 +106,14 @@ h1 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 48px;
     padding-bottom: 1rem;
+    color: #ffffff;
 }
 
 p, button {
     font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 400;
+    color: #FFF;
 }
 
 .footer {
